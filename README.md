@@ -1,4 +1,4 @@
-# Olá Seja bem vindo, seja bem vinda! 
+# Olá, seja bem-vindo! 
 
 ## Sou a Fernanda Soares 👋
 
